@@ -1,2 +1,8 @@
-# python-neural-net-tinkering
-Just playing around with neural nets in Python.
+Based on the following tutorial:
+http://iamtrask.github.io/2015/07/12/basic-python-network/
+
+SETUP:
+- Install latest version of Python (preferably 64-bit).
+- Install the NumPy library:
+    - "pip install numpy"
+- Profit!
